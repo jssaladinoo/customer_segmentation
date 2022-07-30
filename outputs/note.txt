@@ -1,0 +1,1 @@
+Visualizations from the customer_segmentation.ipynb notebook is saved here.
